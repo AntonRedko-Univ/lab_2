@@ -51,14 +51,14 @@ for ($j = 0; $j < count($users); $j++)
 ?>
 <style>
     .b1 {
-        background: darkred; /* Синий цвет фона */
-        color: black; /* Белые буквы */
-        font-size: 15pt; /* Размер шрифта в пунктах */
+        background: darkred; 
+        color: black; 
+        font-size: 15pt; 
     }
     .b2 {
-        background: darkgreen; /* Синий цвет фона */
-        color: whitesmoke; /* Белые буквы */
-        font-size: 9pt; /* Размер шрифта в пунктах */
+        background: darkgreen; 
+        color: whitesmoke; 
+        font-size: 9pt; 
     }
 </style>
 <form >
